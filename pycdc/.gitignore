@@ -1,0 +1,6 @@
+*.swp
+*.swo
+*.gcno
+*.gcda
+*.kdev4
+/.kdev4
